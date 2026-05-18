@@ -439,3 +439,11 @@ section{
         flex-wrap: wrap;
     }
 }
+.footer{
+    margin-top: 50vh;
+    text-align:center;
+    padding:15px;
+    background:#000;
+    color: white;
+}
+}
