@@ -443,6 +443,7 @@ section{
     margin-top: 50vh;
     text-align:center;
     padding:15px;
+    background:linear-gradient(135deg,#0f0a1f,#1b1530,#241b3b);
     color: white;
 }
 }
