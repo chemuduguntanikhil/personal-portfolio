@@ -439,7 +439,7 @@ section{
         flex-wrap: wrap;
     }
 }
-.footer{
+.footer p{
     margin-top: 50vh;
     text-align:center;
     padding:15px;
